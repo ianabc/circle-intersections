@@ -43,6 +43,8 @@ ipyleaflet
 numpy
 # Python: sympy
 sympy
+# Python: descartes
+descartes
 
 # Python: plotting libraries (optional)
 matplotlib
